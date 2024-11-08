@@ -1,0 +1,12 @@
+[submodule "c-lib-stack"]
+	path = c-lib-stack
+	url = git@github.com:river-martin/c-lib-stack.git
+[submodule "c-lib-error"]
+	path = c-lib-error
+	url = git@github.com:river-martin/c-lib-error.git
+[submodule "c-lib-trycatch"]
+	path = c-lib-trycatch
+	url = git@github.com:river-martin/c-lib-trycatch.git
+[submodule "c-lib-require"]
+	path = c-lib-require
+	url = git@github.com:river-martin/c-lib-require.git
